@@ -67,6 +67,10 @@
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <VSIXSubPath>ProjectTemplates</VSIXSubPath>
     </ProjectReference>
+    <ProjectReference Include="..\VisioWixExtension\wixext\VisioWixExtension.2017.csproj">
+      <Project>{814cbd03-4ffb-471a-aaf4-f5e04adee783}</Project>
+      <Name>VisioWixExtension.2017</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Wizard\PanelAddinWizard.2017.csproj">
       <Project>{B214D62D-7872-4D80-9387-ABBFAAF57A2C}</Project>
       <Name>PanelAddinWizard.2017</Name>
